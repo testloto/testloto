@@ -83,7 +83,7 @@
 <a href = "https://www.linkedin.com/in/chitra-sarkar-044969227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/5026Chitra"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/chitra796/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://discord.gg/t2zqqRGp"><img src="https://img.icons8.com/color/50/000000/discord-new-logo.png"/></a>
 
 
 </p>
