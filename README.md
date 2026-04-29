@@ -57,35 +57,75 @@
 <!-- ==================== PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
-### 🏫 LMS – Learning Management System
-- Role-based dashboards (Admin / Student)
-- Payment integration & course management
-- 70+ active users  
-- **Tech:** PHP, MySQL, Tailwind CSS  
+<p align="center"><i>Projects that reflect my real-world development experience</i></p>
 
 ---
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🏫 LMS System
+
+💡 *Course & user management platform*
+
+* Role-based dashboards
+* Payment integration
+* 👥 70+ active users
+
+🛠 `PHP` • `MySQL` • `Tailwind CSS`
+
+</td>
+
+<td width="50%">
 
 ### 📱 ERP Mobile App
-- Attendance & work diary modules  
-- Real-time data sync  
-- Admin broadcast system  
-- **Tech:** React Native, Node.js  
 
----
+💡 *Workforce tracking system*
 
-### 🏦 Retail & Loan Management System
-- Migrated monolithic system → microservices  
-- Built scalable REST APIs  
-- Improved reliability & performance  
-- **Tech:** Java, Microservices  
+* Attendance & diary modules
+* 🔄 Real-time sync
+* 📢 Admin broadcast
 
----
+🛠 `React Native` • `Node.js`
 
-### 🌐 NGO & Partner Portal
-- Donation tracking system  
-- Secure authentication & dashboards  
-- Improved DB efficiency by 30%  
-- **Tech:** PHP, MySQL  
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏦 Retail & Loan System
+
+💡 *Microservices-based finance system*
+
+* Monolith → Microservices
+* REST API development
+* ⚡ Performance optimized
+
+🛠 `Java` • `Microservices`
+
+</td>
+
+<td width="50%">
+
+### 🌐 NGO Portal
+
+💡 *Donation & partner platform*
+
+* Donation tracking
+* 🔐 Secure authentication
+* 📈 30% DB optimization
+
+🛠 `PHP` • `MySQL`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
