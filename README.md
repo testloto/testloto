@@ -57,7 +57,7 @@
 <!-- ==================== PROJECTS ==================== -->
 ## 🚀 Featured Projects
 
-<p align="center"><i>Projects that reflect my real-world development experience</i></p>
+<p align="center"><i>Projects that reflect my practical development experience</i></p>
 
 ---
 
@@ -66,29 +66,31 @@
 
 <td width="50%">
 
-### 🏫 LMS System
+### 🧠 Meeting AI Analyzer
 
-💡 *Course & user management platform*
+<img src="PASTE_GIF_LINK_HERE" width="100%" />
 
-* Role-based dashboards
-* Payment integration
-* 👥 70+ active users
+💡 *AI-based meeting analysis system*
 
-🛠 `PHP` • `MySQL` • `Tailwind CSS`
+* Extracts insights from meeting data
+* Focused on automation & productivity
+
+🛠 `Python`
 
 </td>
 
 <td width="50%">
 
-### 📱 ERP Mobile App
+### 🏥 MediCore HMS
 
-💡 *Workforce tracking system*
+<img src="PASTE_GIF_LINK_HERE" width="100%" />
 
-* Attendance & diary modules
-* 🔄 Real-time sync
-* 📢 Admin broadcast
+💡 *Hospital Management System*
 
-🛠 `React Native` • `Node.js`
+* Patient & admin management
+* Organized healthcare workflow
+
+🛠 `JavaScript`
 
 </td>
 
@@ -98,29 +100,65 @@
 
 <td width="50%">
 
-### 🏦 Retail & Loan System
+### 🏡 MERN Estate
 
-💡 *Microservices-based finance system*
+<img src="PASTE_GIF_LINK_HERE" width="100%" />
 
-* Monolith → Microservices
-* REST API development
-* ⚡ Performance optimized
+💡 *Real estate platform*
 
-🛠 `Java` • `Microservices`
+* Property listing & management
+* Responsive modern UI
+
+🛠 `MongoDB` • `Express` • `React` • `Node.js`
 
 </td>
 
 <td width="50%">
 
-### 🌐 NGO Portal
+### 🌐 LMS Website
 
-💡 *Donation & partner platform*
+<img src="PASTE_GIF_LINK_HERE" width="100%" />
 
-* Donation tracking
-* 🔐 Secure authentication
-* 📈 30% DB optimization
+💡 *Learning Management System*
+
+* Course & user dashboards
+* Backend + frontend integration
 
 🛠 `PHP` • `MySQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 Cosmic Chitra Folio
+
+<img src="PASTE_GIF_LINK_HERE" width="100%" />
+
+💡 *Portfolio website*
+
+* Clean UI/UX
+* TypeScript frontend
+
+🛠 `TypeScript`
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Food API
+
+<img src="PASTE_GIF_LINK_HERE" width="100%" />
+
+💡 *Backend API project*
+
+* REST API endpoints
+* Data handling
+
+🛠 `JavaScript`
 
 </td>
 
