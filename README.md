@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/testloto/testloto/blob/main/ChatGPT%20Image%20Apr%2029%2C%202026%2C%2004_10_09%20PM.png" alt="banner" />
+</p>
+
 <!-- ==================== HEADER / BANNER ==================== -->
 <h1 align="center">Hi 👋, I'm Chitra Sarkar</h1>
 
